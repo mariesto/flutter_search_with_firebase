@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "60427625294",
+    "firebase_url": "https://markopi.firebaseio.com",
+    "project_id": "markopi",
+    "storage_bucket": "markopi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60427625294:android:ec1fb37b33ae272d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60427625294-jvffflku8co30h1geoef6b8g8ih4a8d5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDArloCfO8Il41k1gE0Drl4cbYoLJswjo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60427625294-jvffflku8co30h1geoef6b8g8ih4a8d5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60427625294:android:ac78b83f237103bf",
+        "android_client_info": {
+          "package_name": "com.example.markopi_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60427625294-vl77fjgm4fj7dnvnjq1e4fr3419dj93f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.markopi_mobile",
+            "certificate_hash": "d6e4d9bda85787d99ebd222748308b6b6dc97942"
+          }
+        },
+        {
+          "client_id": "60427625294-jvffflku8co30h1geoef6b8g8ih4a8d5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDArloCfO8Il41k1gE0Drl4cbYoLJswjo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60427625294-jvffflku8co30h1geoef6b8g8ih4a8d5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
